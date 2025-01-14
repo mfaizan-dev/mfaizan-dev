@@ -49,7 +49,6 @@ I’m a passionate Full Stack Web Developer with **3 years** of experience in bu
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mfaizan-dev&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizan-dev&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizan-dev&theme=dracula&hide_border=true" height="150" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfaizan-dev&theme=dracula" height="200" alt="GitHub Profile Summary" />
 </div> 
 
