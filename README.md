@@ -1,7 +1,7 @@
 # 👋 Muhammad Faizan | Full Stack Web Developer  
 
 ### 🚀 About Me  
-I’m a passionate Full Stack Web Developer with **3 years** of experience in building robust and scalable web applications. My expertise spans the **MERN stack**, **GraphQL**, **React Native**, and **modern cloud platforms**. I strive to deliver seamless user experiences through clean, maintainable code and continuous learning.  
+I’m a passionate Full Stack App Developer with **3 years** of experience in building robust and scalable web applications. My expertise spans the **MERN stack**, **GraphQL**, **React Native**, and **modern cloud platforms**. I strive to deliver seamless user experiences through clean, maintainable code and continuous learning.  
 
 ---  
 
