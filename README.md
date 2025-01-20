@@ -7,9 +7,6 @@ I focus on delivering seamless user experiences through clean, maintainable code
 
 Additionally, I have experience in **mobile app development** using **React Native**, **Expo**, and **Android Studio**, complementing my core web development skills.  
 
----
-**🌟 Let’s build something amazing together!**
-
 ---  
 
 ## 🔧 Technologies & Tools  
