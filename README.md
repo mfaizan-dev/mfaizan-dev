@@ -9,6 +9,7 @@ Additionally, I have experience in **mobile app development** using **React Nati
 
 ---
 **🌟 Let’s build something amazing together!**
+
 ---  
 
 ## 🔧 Technologies & Tools  
