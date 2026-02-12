@@ -1,7 +1,7 @@
 # 👋 Muhammad Faizan | Full Stack Web Developer @ Bitsol Technologies
 
 ### 🚀 About Me  
-I’m a passionate **Full Stack Web Developer** with 3 years of experience in building robust and scalable web applications.  
+I’m a passionate **Full Stack Web Developer** with 4+ years of experience in building robust and scalable web applications.  
 My expertise lies in the **MERN stack**, **GraphQL**, and modern cloud platforms.  
 I focus on delivering seamless user experiences through clean, maintainable code and continuous learning.  
 
